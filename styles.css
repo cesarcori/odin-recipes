@@ -1,3 +1,8 @@
+body {
+  font-family: sans-serif, Helvetica;
+  background-color: #fff6c687;
+}
+
 h1 {
   text-align: center;
 }
