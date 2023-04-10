@@ -21,10 +21,16 @@ li {
   margin: 10px 0;
 }
 
-/* li a { */
-/*   font-size: 1.5rem; */
-/*   font-weight: 800; */
-/*   text-decoration: none; */
+li a {
+  font-size: 1.8rem;
+  font-weight: 800;
+  text-decoration: none;
+  color: #7c2e13;
+}
+
+/* li a:hover { */
+/*   background: #dddddd; */
+/*   color: black; */
 /* } */
 /**/
 /* li { */
