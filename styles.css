@@ -6,3 +6,13 @@ body {
 h1 {
   text-align: center;
 }
+
+ul {
+  background-color: #a9efe5; 
+  padding: 15px 35px;
+  max-width: 550px;
+  margin: 0 auto;
+}
+/**/
+/* li { */
+/*   margin: 10px 0; */
