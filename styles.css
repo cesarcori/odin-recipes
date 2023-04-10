@@ -12,6 +12,8 @@ ul {
   padding: 15px 35px;
   max-width: 550px;
   margin: 0 auto;
+  list-style-type: none;
+  text-align: center;
 }
 /**/
 /* li { */
