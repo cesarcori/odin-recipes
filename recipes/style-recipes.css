@@ -3,6 +3,7 @@ body {
   background-color: #fff6c687;
   width: 550px;
   margin: 0 auto;
+  line-height: 1.5;
 }
 
 h1 {
@@ -20,4 +21,9 @@ img {
 
 figcaption {
   font-size: 0.9rem;
+  margin: 15px 20px;
+}
+
+li {
+  margin-top: 8px;
 }
